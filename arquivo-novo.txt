@@ -1,1 +1,2 @@
 Primeira linha do arquivo novo da branch
+Mais uma linha na branch: outra-branch
